@@ -1,6 +1,6 @@
 ## Ankiapp Presentation
 
-Slides for my presentation about Ankiapp
+Slides for my 3-minutes presentation
 
 ## Credit
 
