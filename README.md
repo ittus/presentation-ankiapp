@@ -2,6 +2,8 @@
 
 Slides for my 3-minutes presentation
 
+https://ittus.github.io/presentation-ankiapp/
+
 ## Credit
 
 - Build with [revealjs](http://revealjs.com)
